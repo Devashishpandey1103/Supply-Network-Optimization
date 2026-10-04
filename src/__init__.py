@@ -1,3 +1,0 @@
-"""
-Supply-Network-Optimization Module
-"""
